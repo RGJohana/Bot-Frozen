@@ -1,4 +1,3 @@
-##Nombre del Proyecto
 # Desafío Python - FROZENBOT
 
 ## Descripción
