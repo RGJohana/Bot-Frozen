@@ -1,4 +1,4 @@
-# Desafío Python - FROZENBOT
+# Desafío Python - FROZENBOT:rocket:
 
 ## Descripción
 # Sistema de Toma de Pedidos - Frozen SRL
@@ -31,7 +31,7 @@ con los usuarios y responder a sus consultas. El propósito principal es facilit
 - Python 3.7+
 - TensorFlow 2.0+
   
-## Requisitos 
+## Requisitos :package:
 - TensorFlow: Framework para aprendizaje automático.
 - Keras: Interfaz de alto nivel para redes neuronales.
 - Requests: Biblioteca para realizar solicitudes HTTP.
@@ -42,14 +42,14 @@ con los usuarios y responder a sus consultas. El propósito principal es facilit
 - Modelo NLP: Se entrena con el conjunto de datos (tag, patterns, resposes) usando TensorFlow y Keras.
 - Archivos adicionales: lematizacion-es.pickle, frozenbot.h5, responses.pkl, vocab.pkl, etc.
 - 
-## Uso
+## Uso :clipboard:
 Para ejecutar tu programa en Visual Studio Code utilizando el modo de depuración (Run/Start Debugging o F5)
 
-### Configuración del Entorno Virtual
+### :gear: Configuración del Entorno Virtual 
 - Crear un Entorno Virtual: `python -m venv venv`
 - Activar el Entorno Virtual: `source venv/bin/activate` (Linux/Mac) o `.\venv\Scripts\activate` (Windows)
 
-- # Instalar dependencias
+- # Instalar dependencias :wrench:
 - [TensorFlow](https://www.tensorflow.org/): `pip install tensorflow`
 - [Keras](https://keras.io/): `pip install keras`
 - [Requests](https://docs.python-requests.org/en/master/): `pip install requests`
