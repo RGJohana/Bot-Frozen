@@ -1,7 +1,7 @@
-Nombre del Proyecto
-Desafío Python - FROZENBOT
+##Nombre del Proyecto
+# Desafío Python - FROZENBOT
 
-Descripción
+## Descripción
 # Sistema de Toma de Pedidos - Frozen SRL
 
 El programa principal ejecuta la toma de pedidos para la Heladería Frozen SRL. Utiliza un bot interactivo llamado FROZENBOT para gestionar las interacciones
