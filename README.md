@@ -1,12 +1,12 @@
-# Desafío Python - FROZENBOT:rocket:
+# Desafío Python - FROZENBOT :rocket:
 
 ## Descripción
-# Sistema de Toma de Pedidos - Frozen SRL
+# Sistema de Toma de Pedidos - Frozen SRL :scroll:
 
 El programa principal ejecuta la toma de pedidos para la Heladería Frozen SRL. Utiliza un bot interactivo llamado FROZENBOT para gestionar las interacciones
 con los usuarios y responder a sus consultas. El propósito principal es facilitar la experiencia de pedidos para los clientes y gestionar el inventario de manera eficiente.
 
-## Características Principales
+## :loudspeaker: Características Principales
 
 - **Bienvenida con Información Climática:** Verifica la temperatura en Pehuajó y muestra un mensaje de bienvenida que incluye información climática actualizada para proporcionar una experiencia personalizada.
 
@@ -15,7 +15,7 @@ con los usuarios y responder a sus consultas. El propósito principal es facilit
 - **Verificación de Stock:** Cuando se detecta un pedido, el programa verifica si los productos solicitados están en stock. Esta verificación es crucial para confirmar o
   rechazar los pedidos de manera informada.
 
-## Flujo de Ejecución
+## :loudspeaker: Flujo de Ejecución
 
 1. **Mensaje de Bienvenida:** El programa inicia mostrando un mensaje de bienvenida que incluye información climática.
 
@@ -27,7 +27,7 @@ con los usuarios y responder a sus consultas. El propósito principal es facilit
 
 5. **Finalización del Programa:** Si el usuario ingresa "finish", el programa muestra todos los pedidos confirmados hasta ese momento y termina la ejecución.
 
-### Entorno de Desarrollo
+### :bulb: Entorno de Desarrollo
 - Python 3.7+
 - TensorFlow 2.0+
   
